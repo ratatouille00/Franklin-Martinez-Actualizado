@@ -1,0 +1,7 @@
+rubro del sitio: Venta de Ropa Americana nueva, usada y artículos varios.
+
+Nombre del sitio
+            *Nombre de dominio:gropacasadecv.com
+
+ paleta de colores -> https://color.adobe.com/es/create/color-wheel/?base=2&rule=Analogous&selected=0&name=Mi%20tema%20de%20Color&mode=rgb&rgbvalues=1,0.7798008277978941,0.5843167366376509,0.9051192091694563,0.01842687734108424,0.91,0.07024931575943327,0.46128266572397536,1,0.3787264583605122,0.91,0.45245435476662876,1,0.8618447849215833,0.2740172032702246&swatchOrder=0,1,2,3,4
+ tipografía -> https://fonts.google.com/specimen/Lora
