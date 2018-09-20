@@ -17,5 +17,9 @@ ul{
 	text-decoration:none;
 	height:18px;
 }
-
+#menu li a:hover{
+	background-color:#f90;
+	margin-top:-2px;
+	font-weight:bold;
+}
 
